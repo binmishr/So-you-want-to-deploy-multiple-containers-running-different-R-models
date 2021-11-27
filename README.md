@@ -1,1 +1,4 @@
-# So-you-want-to-deploy-multiple-containers-running-different-R-models-
+# So-you-want-to-deploy-multiple-containers-running-different-R-models
+
+The details of the codeset and plots are included in the attached Microsoft Word Document (.docx) file in this repository. 
+You need to view the file in "Read Mode" to see the contents properly after downloading the same.
